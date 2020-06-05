@@ -22,3 +22,4 @@ Online course that focus on real case projects using Phyton as main language to 
 * Creating interactive dashboards
 
 ### Projects:
+1. [Airbnb overview in Montreal](https://github.com/aagalperin/data_science_na_pratica/blob/master/airbnb_overview_montreal.ipynb)
