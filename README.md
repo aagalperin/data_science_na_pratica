@@ -6,12 +6,12 @@
 ## DATA SCIENCE NA PRATICA
 <sub> *online course* </sub>
 
-Online course that focus on real case projects using Phyton as main language to develop analisys and macchine learn solutions and lead the students in a way that they are able to use the same methodology for their own projects.
+An online course that focuses on real case projects using Phyton as the main language to develop analysis and machine learning solutions and lead the students in a way that they can use the same methodology for their projects.
 
 **Chapters:**
 * Data Science Introduction
 * Manipulating and exploring data
-* Data vizualization
+* Data visualization
 * Machine learning with Scikit-Learn
 * Creating a project from scratch
 * Machine Learning application deploy
